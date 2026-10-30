@@ -1,4 +1,4 @@
-# 🤖 Esercitazione 4 — L’account giusto per quel compito
+# 🤖 Esercitazione - L’account giusto per quel compito
 
 **L’account giusto per quel compito** è un’esercitazione interattiva per capire quando utilizzare un assistente IA, quando adattare la richiesta e quando fermarsi o chiedere autorizzazione.
 
