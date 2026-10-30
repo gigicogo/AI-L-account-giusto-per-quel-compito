@@ -1,14 +1,8 @@
-# Esercitazione 4 — L’account giusto per quel compito
+# Esercitazione — L’account giusto per quel compito
 
 Web app statica, senza librerie esterne, database, analytics o connessioni a servizi esterni.
 
-## Pubblicazione su GitHub Pages
 
-1. Crea un repository GitHub (ad esempio `esercitazione4-account-pa`).
-2. Carica il file `index.html` nella radice del repository (il README è facoltativo).
-3. Vai in **Settings → Pages**.
-4. In **Build and deployment**, seleziona **Deploy from a branch**, quindi `main` e cartella `/ (root)`; salva.
-5. L’indirizzo sarà del tipo `https://NOMEUTENTE.github.io/esercitazione4-account-pa/`.
 
 ## Uso didattico
 
